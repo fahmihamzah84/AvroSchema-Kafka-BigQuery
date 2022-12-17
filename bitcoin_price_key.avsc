@@ -1,0 +1,11 @@
+{
+  "namespace": "com.practice.bitcoin",
+  "type": "record",
+  "name": "BitcoinPriceKey",
+  "fields": [
+    {
+      "name": "Date",
+      "type" : "string"
+    }
+  ]
+}
